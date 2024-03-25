@@ -18,9 +18,3 @@ module "sns-service" {
   something = var.something  // You don't have to pass all the variables, if they are not declared in the module.
   // You may also directly pass values : something = "value"
 }
-
-// Module outputs
-output "ec2_instance_id" {
-  description = "The ID of the EC2 instance"
-  value = module.clear-purpose-name.my_output
-}
