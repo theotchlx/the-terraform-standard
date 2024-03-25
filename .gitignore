@@ -1,5 +1,6 @@
 # Used to exclude local configuration files, temporary files, and build artifacts from version control.
 .terraform/
+.terraform*
 *.tfstat*
 *.tfplan
 *.tfvars
