@@ -80,4 +80,4 @@ Explaination of how others can contribute to the project, including guidelines f
 
 ## License
 
-This project is licensed under the [My License](LICENSE). See the LICENSE file for details.
+This project is licensed under the [My License](LICENSE) license. See the LICENSE file for details.
